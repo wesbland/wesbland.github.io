@@ -1,30 +1,34 @@
 <html>
     <head>
-        <title>Wesley Bland</title>
+        <title>Contact Info</title>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-        <link href="style.css" rel="stylesheet" type="text/css">
+        <link href="css/style.css" rel="stylesheet" type="text/css">
     </head>
 
-    <?php include 'menu.php'; ?>
-
     <body>
-
-        <div id="wrapper">
-            <div id="page">
-                <div id="page-bgtop">
-                    <div id="page-bgbtm">
-
-                        <h1>Contact Information</h1>
-
-                        <br>
-
-                        <p>
-                            9700 South Cass Avenue, <br>
-                            Bldg. 240, Room: 3154,  <br>
-                            Argonne, IL 60439-4844
-                        </p>
-                        <p> Phone: (630) 252-1390   </p>
+        <div id="dvmaincontainer">
+            <?php include 'menu.php'; ?>
+            <div id="dvbodycontainer">
+                <div id="dvbannerbgcontainer">
+                    <div class="lftcontainer">
+                        <div class="dvbannerleft">
+                            <p>CONTACT INFORMATION</p>
+                        </div>
                     </div>
+                    <div id="dvbanner">
+                    </div>
+                </div>
+                <div id="dvmainpanel">
+                    <h1> Mailing Address </h1>
+                    <p>
+                        9700 South Cass Avenue, <br>
+                        Bldg. 240, Room: 3154,  <br>
+                        Argonne, IL 60439-4844
+                    </p>
+                    <h1> Phone </h1>
+                    <p> (630) 252-1390 </p>
+                    <h1> Email </h1>
+                    <p> wbland [at] mcs [dot] anl [dot] gov </p>
                 </div>
             </div>
         </div>
