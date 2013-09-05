@@ -18,9 +18,12 @@
                     <div id="dvbanner">
                     </div>
                 </div>
-                <div id="dvmainpanel">
+                <div id="dvmainpanel"> <p>
+                    You can find my Google Scholar page
+                    <a href="http://scholar.google.com/citations?user=eY2crRsAAAAJ">here</a>
+                    to see more statistics and anything I might have missed.
                     <?php include 'papers.html'; ?>
-                </div>
+                </p> </div>
             </div>
         </div>
     </body>
