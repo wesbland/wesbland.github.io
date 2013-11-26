@@ -26,7 +26,7 @@
                 <div id="dvrightpanel">
                     <p>
                         Wesley Bland is a postdoctoral appointee at Argonne National Laboratory
-                        in the Parallel Models and Runtime Systems group led by
+                        in the Programming Models and Runtime Systems group led by
                         <a href="http://www.mcs.anl.gov/~balaji">Dr. Pavan Balaji</a>.
                         His research interests include fault tolerance, parallel and distributed
                         programming models, and runtime systems.
