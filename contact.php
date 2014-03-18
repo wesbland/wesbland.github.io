@@ -28,9 +28,9 @@
                     <h1> Phone </h1>
                     <p> (630) 252-1390 </p>
                     <h1> Email </h1>
-                    <p> wbland [at] mcs [dot] anl [dot] gov </p>
+                    <p> wbland [at] anl [dot] gov </p>
                     <h1> Calendar </h1>
-                    <p> <a href="https://zimbra.anl.gov/home/wbland@mcs.anl.gov?view=workWeek&fmt=freebusy">Free/Busy</a> </p>
+                    <p> <a href="https://mail.anl.gov/owa/calendar/1689f1d0cacd4f8b96d506aa9d43bb6f@mcs.anl.gov/c10c4e2d05a64473975e89b4a332f41b8064363529714135235/calendar.html">Free/Busy</a> </p>
                 </div>
             </div>
         </div>
