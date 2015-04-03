@@ -7,7 +7,12 @@
 
     <body>
         <div id="dvmaincontainer">
-            <?php include 'menu.php'; ?>
+            <script src="jquery.js"></script>
+            <script>
+            $(function() {
+              $("#includedContent").load("menu.html");
+            });
+            </script>
             <div id="dvbodycontainer">
                 <div id="dvbannerbgcontainer">
                     <div class="lftcontainer">
@@ -22,10 +27,14 @@
                     You can find my Google Scholar page
                     <a href="http://scholar.google.com/citations?user=eY2crRsAAAAJ">here</a>
                     to see more statistics and anything I might have missed.
-                    <?php include 'papers.html'; ?>
+                    <script src="jquery.js"></script>
+                    <script>
+                    $(function() {
+                      $("#includedContent").load("papers2.html");
+                    });
+                    </script>
                 </p> </div>
             </div>
         </div>
     </body>
 </html>
-

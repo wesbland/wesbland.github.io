@@ -7,7 +7,12 @@
 
     <body>
         <div id="dvmaincontainer">
-            <?php include 'menu.php'; ?>
+            <script src="jquery.js"></script>
+            <script>
+            $(function() {
+              $("#includedContent").load("menu.html");
+            });
+            </script>
             <div id="dvbodycontainer">
                 <div id="dvbannerbgcontainer">
                     <div class="lftcontainer">
@@ -43,4 +48,3 @@
         </div>
     </body>
 </html>
-
