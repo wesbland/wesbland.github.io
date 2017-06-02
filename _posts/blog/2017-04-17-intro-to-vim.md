@@ -100,7 +100,7 @@ bottom `zb` (zoom bottom).
 Sometimes you just want to go to the top of the buffer and `gg` will take you
 there. `G` will also drop you to the end of the file.
 
-## Ok, now I want to actually type something
+## OK, now I want to actually type something
 
 You've spent all this time figuring out where you want your cursor to be. It's
 probably time to actually write some code. Push `i` (insert) and you're now in
@@ -162,14 +162,14 @@ were only two modes, but I lied. Anyway, it's not like you spend much time in
 search mode so it doesn't really count, right?
 
 So push `/` and start typing what you're looking for. Most likely, it'll start
-jumping around to find the next occurence of the text you were searching for.
+jumping around to find the next occurrence of the text you were searching for.
 When you hit `Enter`, you'll be moved back into normal mode. What if you want to
-find the next occurence? `n` will take care of that and `N` will find the
+find the next occurrence? `n` will take care of that and `N` will find the
 previous one.
 
 There's some pretty powerful shortcut keys here too. If you just want to find
-the next occurence of the current word, `*` is your friend. `#` will find the
-previous occurence of the current word. I use these a lot, particularly with
+the next occurrence of the current word, `*` is your friend. `#` will find the
+previous occurrence of the current word. I use these a lot, particularly with
 variables that I want to see where they're used.
 
 ## Whew...that's a lot. Let's take a break.
@@ -180,16 +180,16 @@ yet...fine. Last thing...
 
 The word to keep in mind here is "write". You write the current buffer to disk
 with `:w`. By pushing `:`, you're actually putting Vim into another special mode
-that allows you to type out commands that are longer than a chacter. This
+that allows you to type out commands that are longer than a character. This
 doesn't get used a lot, but for opening and closing buffers, it's pretty common.
 `wq` will save and quit. If you want to quit without saving, you can tell Vim
 that you mean it in the most traditional way, with a big old `!`. `q!` means NO!
 I didn't want to save that buffer. I just want it gone.
 
-## Ok, so we're done now...right?
+## OK, so we're done now...right?
 
 Sure, we're done now. Next time we'll start looking at some more advanced
-features. Not sure what they'll be yet, but I'm guessing configuratino and
+features. Not sure what they'll be yet, but I'm guessing configuration and
 plugins. That's where your text editor really becomes your own.
 
 See you then...
