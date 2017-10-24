@@ -7,6 +7,9 @@ logo: site-logo.png
 search: true
 url: http://www.wesbland.com
 
+# Google Analytics
+google_analytics: UA-29572805-1
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
