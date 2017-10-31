@@ -62,6 +62,7 @@ probably said something like this:
 I'm going to leave that one for next time, but the short version is, yes, that's true...for a small number of people.
 
 ![XKCD 1597](/images/git_2x.png){: .center-image height="50%" width="50%"}
+*Source: [https://xkcd.com/1597](https://xkcd.com/1597)*{: .center}
 
 I could go on all day about all of the things that you couldn't do, but you came
 here to find out about what you *can* do with Git. So let's move on to that.
