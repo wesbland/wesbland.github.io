@@ -5,7 +5,7 @@ locale: en_US
 description: Place for all Wesley's web stuff
 logo: site-logo.png
 search: true
-url: http://www.wesbland.com
+url: https://www.wesbland.com
 
 # Google Analytics
 google_analytics: UA-29572805-1
