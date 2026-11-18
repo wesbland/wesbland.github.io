@@ -4,3 +4,4 @@ _site
 bundle
 .bundle
 .gems
+Gemfile.lock
